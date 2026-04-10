@@ -1,0 +1,9 @@
+/* Ensure canvas scales properly */
+canvas {
+  display: block;
+}
+
+/* Smooth rendering */
+body {
+  overflow: hidden;
+}
